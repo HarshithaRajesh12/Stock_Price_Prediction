@@ -2,7 +2,7 @@
 
 This folder contains the conceptual framework for integrating sentiment analysis into stock price forecasting. It is based on the literature and findings from the published paper:
 
-> *Estimation of Stock Prices Based on Deep Learning and Sentiment Analysis Techniques*, International Journal of Scientific Research & Engineering Trends. :contentReference[oaicite:6]{index=6}
+> *Estimation of Stock Prices Based on Deep Learning and Sentiment Analysis Techniques*, International Journal of Scientific Research & Engineering Trends.
 
 ## Contents
 
